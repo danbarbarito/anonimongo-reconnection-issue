@@ -1,0 +1,6 @@
+{
+    "[mustache]": {
+        "djlint.enableLinting": false
+    },
+    "editor.tabSize": 2
+}

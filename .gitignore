@@ -1,0 +1,6 @@
+.env
+*.exe
+node_modules/
+.parcel-cache/
+anonimongo_reconnection_issue
+__pycache__/
